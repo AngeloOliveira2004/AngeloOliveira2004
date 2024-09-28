@@ -3,8 +3,8 @@
 
 ## 🔥 Stats
 
-[![AngeloOliveira2004's Stats](https://github-readme-stats.vercel.app/api?username=AngeloOliveira2004&show_icons=true&theme=radical)](https://github.com/AngeloOliveira2004)
-[![AngeloOliveira2004's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AngeloOliveira2004&layout=compact&theme=radical)](https://github.com/AngeloOliveira2004)
+[![AngeloOliveira2004's Stats](https://github-readme-stats-4kxbd50ij-angelooliveira2004s-projects.vercel.app/api?username=AngeloOliveira2004&show_icons=true&theme=radical)](https://github.com/AngeloOliveira2004)
+[![AngeloOliveira2004's Top Langs](https://github-readme-stats-4kxbd50ij-angelooliveira2004s-projects.vercel.app/api/top-langs/?username=AngeloOliveira2004&layout=compact&theme=radical)](https://github.com/AngeloOliveira2004)
 
 ## 🚀 Projects already finished or done in the course
 
