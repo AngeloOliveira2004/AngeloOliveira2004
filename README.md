@@ -2,9 +2,8 @@
 **`Student of the Bachelor in Informatics and Computing Engineering at Faculdade de Engenharia do Porto (FEUP) (3rd Year)`** <br>
 
 ## 🔥 Stats
-
-[![AngeloOliveira2004's Stats](https://github-readme-stats-4kxbd50ij-angelooliveira2004s-projects.vercel.app/api?username=AngeloOliveira2004&show_icons=true&theme=radical)](https://github.com/AngeloOliveira2004)
-[![AngeloOliveira2004's Top Langs](https://github-readme-stats-4kxbd50ij-angelooliveira2004s-projects.vercel.app/api/top-langs/?username=AngeloOliveira2004&layout=compact&theme=radical)](https://github.com/AngeloOliveira2004)
+![Angelo's GitHub stats](https://github-readme-stats.vercel.app/api?username=AngeloOliveira2004&include_all_commits=true&hide_rank=true&count_private=true&theme=dracula)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AngeloOliveira2004&hide=TeX&layout=compact&langs_count=8&theme=dracula)
 
 ## 🚀 Projects already finished or done in the course
 
