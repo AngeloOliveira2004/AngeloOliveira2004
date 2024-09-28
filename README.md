@@ -9,7 +9,7 @@
 ## 🌱 What I'm Working On
 
 
-## 🌳 Projects already finished or done in the course
+## 🚀 Projects already finished or done in the course
 
 
 | Subject               | Link to Project                                        | Brief Description               | Grade |
@@ -22,9 +22,6 @@
 | AED - Y2S1     | [Schedule Manager](https://github.com/AngeloOliveira2004/AED_1st_Project) |  Terminal-based tool with the purpose of oversee and execute several operations on student schedules    | 14.2     |
 | AED - Y2S1     | [Airline Management Tool](https://github.com/AngeloOliveira2004/AED_2nd_Project) | Terminal-based airline management tool    | 18.4       |
 | LDTS - Y2S1     | [WORLD THRUSTER](https://github.com/AngeloOliveira2004/LDTS_Project) | Terminal-based game built with a lanterna java framework in order to demonstrate knowledge about unit testing and design patterns    | 15.9     
-
-
-## 🚀 Projects
 
 ## 📫 How to reach me:
 
