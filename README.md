@@ -1,5 +1,5 @@
 # Hello, I'm Ângelo Oliveira! 👋
-**`Student of the Bachelor in Informatics and Computing Engineering at Faculdade de Engenharia do Porto (FEUP) (3rd Year)`** <br>
+**`Student of the Master in Informatics and Computing Engineering at Faculdade de Engenharia do Porto (FEUP) (1st Year)`** <br>
 
 ## 🔥 Stats
 ![Angelo's GitHub stats](https://github-readme-stats.vercel.app/api?username=AngeloOliveira2004&include_all_commits=true&hide_rank=true&count_private=true&theme=dracula)
