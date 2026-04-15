@@ -9,6 +9,7 @@
 
 | Subject               | Link to Project                                        | Brief Description               | Grade |
 |-----------------------|-------------------------------------------------------|---------------------------------|-------|
+| COMP -  Y3S1    | [J-- Compiler](https://github.com/AngeloOliveira2004/COMP_Project) | A compiler for a Java subset that generates valid JVM bytecode via the Jasmin assembler. | 20.00     |
 | DA -  Y2S2    | [Water Management Tool](https://github.com/AngeloOliveira2004/DA_1st_Project) | This was the first project of the subject of DA (Algorithm Design) and it consisted of a terminal-based application for a water management tool using several graph transversal and max flow algorithms   | 19.95     |
 | DA -  Y2S2    | [Graph Traversal Tool](https://github.com/AngeloOliveira2004/DA_2nd_Project) | This was the second project of the subject oF DA (Algorithm Design) and it consisted of a terminal-based application using several graph transversal and path finding algorithms    | 18.8    |
 | ESOF - Y2S2   | [Help Buddies](https://github.com/AngeloOliveira2004/ESOF_Project) | Mobile application of a social network designed to meet people at eco-friendly events organized by the community  | 17.7    |
