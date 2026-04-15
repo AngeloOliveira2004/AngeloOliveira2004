@@ -9,8 +9,8 @@
 
 | Subject               | Link to Project                                        | Brief Description               | Grade |
 |-----------------------|-------------------------------------------------------|---------------------------------|-------|
-| COMP -  Y3S2    | [J-- Compiler](https://github.com/AngeloOliveira2004/COMP_Project) | A compiler for a Java subset that generates valid JVM bytecode via the Jasmin assembler. | 20.00     |
-| FSI -  Y3S1    | [Cybersecurity logbooks](https://github.com/AngeloOliveira2004/FSI_Logs) | A detailed archive of cybersecurity logbooks and Capture The Flag (CTF) write-ups. | 20.00     |
+| COMP -  Y3S2    | [Java-- Compiler](https://github.com/AngeloOliveira2004/COMP_Project) | A compiler for a Java subset that generates valid JVM bytecode via the Jasmin assembler. | 20.00     |
+| FSI -  Y3S1    | [Cybersecurity Logbooks](https://github.com/AngeloOliveira2004/FSI_Logs) | A detailed archive of cybersecurity logbooks and Capture The Flag (CTF) write-ups. | 20.00     |
 | IA -  Y2S2    | [Adversarial Algorithms Game](https://github.com/AngeloOliveira2004/IA_Project) | An Local/AI-powered game built to implement and evaluate adversarial search algorithms like Minimax and Monte Carlo Tree Search.    | 20.0   |
 | DA -  Y2S2    | [Water Management Tool](https://github.com/AngeloOliveira2004/DA_1st_Project) | This was the first project of the subject of DA (Algorithm Design) and it consisted of a terminal-based application for a water management tool using several graph transversal and max flow algorithms   | 19.95     |
 | DA -  Y2S2    | [Graph Traversal Tool](https://github.com/AngeloOliveira2004/DA_2nd_Project) | This was the second project of the subject oF DA (Algorithm Design) and it consisted of a terminal-based application using several graph transversal and path finding algorithms    | 18.8    |
